@@ -1,4 +1,4 @@
-git"use strict";
+
 //condition or conditions ? expression 1 and :expression 2
 //if else statement
 Object.defineProperty(exports, "__esModule", { value: true });
